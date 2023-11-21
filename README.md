@@ -42,20 +42,11 @@ Email válido para certificação SSL
 
 ## Consultoria e contato:
 
-    Cloud Win
-
-    Fone: 47 99982-6437 (WhatsApp)
-
-
-https://api.whatsapp.com/send?phone=5547999826437&text=Ol%C3%A1,%20estou%20no%20Whaticket%20do%20github%20e%20gostaria%20de%20saber%20mais.
+    
+Fone: 8199545-4578 (WhatsApp)
 
 
-## Tenha mais conteudos em nossa base de conhecimento:
 
-https://clientes.cloudwin.com.br/index.php?rp=/knowledgebase
 
-CRÉDITOS: CANAL VEM FAZER
-
-https://www.youtube.com/@vemfazer
 
 
