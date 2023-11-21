@@ -19,14 +19,6 @@ cd && cd ./install && sudo ./install_instancia
 
 Um VPS Ubuntu 20.04 (Configuração recomendada: 3 VCPU's + 4 GB RAM)
 
-Cloud VPS no Canadá:
-
-https://clientes.cloudwin.com.br/index.php?rp=/store/cloud-vmware-canada
-
-Cloud VPS no Brasil:
-
-https://clientes.cloudwin.com.br/index.php?rp=/store/cloud-vmware-brasil-sp
-
 Com seu VPS ativado e online vamos seguir:
 
 Subdominio para Frontend
