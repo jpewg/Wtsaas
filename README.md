@@ -32,10 +32,7 @@ Subdominio para API - backoffice
 
 Email válido para certificação SSL
 
-## Consultoria e contato:
 
-    
-Fone: 8199545-4578 (WhatsApp)
 
 
 
